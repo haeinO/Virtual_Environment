@@ -1,0 +1,11 @@
+<launch>
+	<node pkg="wecar_ros" type="kuad_2.py" name="kuad" output="screen"/>
+	
+
+
+
+
+
+
+
+</launch>

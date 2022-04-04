@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="wecar_ros" type="gps.py" name="gps_reading"  />
+
+</launch>
